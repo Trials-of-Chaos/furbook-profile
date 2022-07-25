@@ -5,3 +5,7 @@
 .row {
   margin: 2rem
 }
+.container {
+    display:grid;
+    
+}
